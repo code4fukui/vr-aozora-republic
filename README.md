@@ -12,4 +12,4 @@
 ### 360度写真
 
 - https://code4fukui.github.io/vr-aozora-republic/vr360_aozora-republic_150m.jpg
-- https://code4fukui.github.io/vr-aozora-republic/vr360_aozora_republic_50m.jpg
+- https://code4fukui.github.io/vr-aozora-republic/vr360_aozora-republic_50m.jpg
